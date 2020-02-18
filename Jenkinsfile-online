@@ -13,8 +13,8 @@ pipeline {
         DOCKER_CREDENTIAL_ID = 'registry-id'
         GITHUB_CREDENTIAL_ID = 'github-302bc1'
         KUBECONFIG_CREDENTIAL_ID = 'kubeconfig-id'
-        REGISTRY = 'registry.cn-hangzhou.aliyuncs.com'
-        DOCKERHUB_NAMESPACE = 'loner'
+        REGISTRY = 'dockerhub.qingcloud.com'
+        DOCKERHUB_NAMESPACE = 'luoxueliang'
         GITHUB_ACCOUNT = 'luoxueliang'
         APP_NAME = 'devops-java-sample'       
     }
